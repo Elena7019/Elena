@@ -84,4 +84,4 @@
 
 2) Центрированные изображения вставляются при помощи указания следующих символов:
 
-![![display:block;margin:auto|](/Smile.jpg)
+![display:block;margin:auto|](/Smile.jpg)
